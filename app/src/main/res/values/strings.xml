@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SponsorBlock for Android</string>
+    <string name="accessibility_service_label">Skip sponsors on the YouTube app</string>
+    <string name="accessibility_service_description">Skip sponsors on the YouTube app</string>
+</resources>
